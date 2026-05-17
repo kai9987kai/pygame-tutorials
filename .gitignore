@@ -1,0 +1,4 @@
+__pycache__/
+.pytest_cache/
+Game/save_data.json
+pygame_run.*.log
